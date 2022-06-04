@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
    s.license = { :type => "MIT", :file => "LICENSE.md" }
 
    s.summary = 'An elegant messages UI library for iOS.'
-   s.homepage = 'https://github.com/MessageKit/MessageKit'
+   s.homepage = 'https://github.com/phatnguyen1006/ChatMessageKit'
    s.authors = { "P" => "phatnguyen876@gmail.com", "KhoiLe" => "khoilencontact@gmail.com" }
 
    s.source = { :git => 'https://github.com/phatnguyen1006/ChatMessageKit.git', :branch => "main", :tag => s.version }
