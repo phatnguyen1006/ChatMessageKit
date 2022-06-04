@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
    s.authors = { "P" => "phatnguyen876@gmail.com", "KhoiLe" => "khoilencontact@gmail.com" }
 
    s.source = { :git => 'https://github.com/phatnguyen1006/ChatMessageKit.git', :branch => "main", :tag => s.version }
-   s.source_files = 'Sources/**/*.swift'
+   s.source_files = 'Sources/**/*.{swift}'
 
    s.swift_version = '5.5'
 
